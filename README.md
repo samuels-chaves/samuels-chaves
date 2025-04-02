@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Samuel!  
+💻 Desenvolvedor Full Stack
+🎯 Focado em Backend e Cibersegurança  
+📍 Buscando minha primeira oportunidade na área de TI
 
-<!--
-**samuels-chaves/samuels-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias:
+- ⚛️ React.js | Node.js
+- 🐍 Python | JavaScript
+- 🛠️ PostgreSQL | MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Conecte-se comigo:
+[![LinkedIn](www.linkedin.com/in/samuels-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/samuels-chaves)
