@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Samuel!  
 - 💻 Desenvolvedor Full Stack
-- 🎯 Focado em Backend e Cibersegurança  
+- 🎯 Focado em Backend
 - 📍 Comprometido com meu desenvolvimento profissional em TI
 
 ## 🚀 Tecnologias:
