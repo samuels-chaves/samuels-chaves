@@ -3,14 +3,12 @@
 ## 👨‍💻 Sobre mim
 
 <p align="center">
-Sou apaixonado por tecnologia e desenvolvimento web.  
-Atualmente atuo como **Desenvolvedor Full Stack**, com foco em **backend** e integração de sistemas.  
-Tenho experiência com projetos em **Node.js**, **React**, **Java**, **Python** e bancos de dados como **PostgreSQL** e **MySQL**.  
-
-Busco constantemente evoluir como profissional e contribuir com soluções eficientes e escaláveis.  
-Além do código, gosto de compartilhar conhecimento e aprender com a comunidade.
-
-🎯 **Objetivo atual:** Aprimorar minhas habilidades em arquitetura de software e DevOps.
+Sou apaixonado por tecnologia e desenvolvimento web.<br>
+Atualmente atuo como <strong>Desenvolvedor Full Stack</strong>, com foco em <strong>backend</strong> e integração de sistemas.<br>
+Tenho experiência com projetos em <strong>Node.js</strong>, <strong>React</strong>, <strong>Java</strong>, <strong>Python</strong> e bancos de dados como <strong>PostgreSQL</strong> e <strong>MySQL</strong>.<br><br>
+Busco constantemente evoluir como profissional e contribuir com soluções eficientes e escaláveis.<br>
+Além do código, gosto de compartilhar conhecimento e aprender com a comunidade.<br><br>
+🎯 <strong>Objetivo atual:</strong> Aprimorar minhas habilidades em arquitetura de software e DevOps.
 </p>
 
 ---
@@ -31,26 +29,16 @@ Além do código, gosto de compartilhar conhecimento e aprender com a comunidade
 
 ## 📫 Conecte-se comigo
 
-- 📧 **Email:** [samuelsantosch@gmail.com](mailto:samuelsantosch@gmail.com)
-- 📷 **Instagram:** [@seu_usuario](https://instagram.com/samuel_santos9)
-- 💼 **LinkedIn:** [Samuel Santos Chaves](https://www.linkedin.com/in/samuels-chaves)
-- 🐙 **GitHub:** [samuels-chaves](https://github.com/samuels-chaves)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuels-chaves&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuels-chaves&layout=compact&langs_count=7&theme=default"/>
-</div>
-
----
-
-## 👁️ Contador de visitas
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samuels-chaves&color=blue" alt="Visualizações do perfil" />
+  <a href="https://instagram.com/samuel_santos9" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:samuelsantosch@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuels-chaves" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
